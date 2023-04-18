@@ -33,9 +33,9 @@
 
 
 ## 🏃🏻 MEMBERS
-| [<a href="https://github.com/seung9526"><img src="https://avatars.githubusercontent.com/u/38849788?v=4" width="90"></a>]() | [<a href="https://github.com/Secludor"><img src="https://avatars.githubusercontent.com/u/129930239?v=4" width="90"></a>]() |
+| [<a href="https://github.com/seung9526"><img src="https://avatars.githubusercontent.com/u/38849788?v=4" width="90"></a>]() |  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|             [성경민](https://github.com/seung9526)             |             [유병욱](https://github.com/FrostPenguiin)             |
+|             [성경민](https://github.com/seung9526)             |             [member::add](mumberurl::add)             |
 <br/>
 
 
