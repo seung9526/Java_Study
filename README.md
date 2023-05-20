@@ -1,9 +1,12 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JAVA_STUDY&fontAlign=57&fontAlignY=35&color=gradient)
 
-자바 스터디입니다.
+스스로 계획을 세워 나아가는 자바 공부방 입니다.<br><br>
 
-개념 및 이론을 학습과 복습을 하여 기초를 다지며
-스스로 공부한 것을 기록해 나아가는 방식 입니다.
+
+## ✅ 학습 목표!
+
+- 개념 및 이론을 학습과 복습을 하여 기초를 다진다.
+- 스스로 공부한 것을 기록 나아간다.
 <br><br>
 
 
