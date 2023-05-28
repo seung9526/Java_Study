@@ -284,6 +284,4 @@ p.<String>print("안녕");
 
 Child c = new Child();
 c.<String>print("안녕");
-
-
 ```
